@@ -53,34 +53,26 @@ Analyzing 4 years of Superstore sales data to uncover revenue drivers, profit tr
 
 ## Why I Built This
 
-Every business needs to understand where revenue comes from and where
-profit is being lost. This project explores 4 years of retail sales data
-to identify top performing products, regions and customer segments —
-the kind of analysis that directly supports strategic decision making
-in finance and operations roles.
+Every business needs to understand where revenue comes from and where profit is being lost. This project explores 4 years of retail sales data
+to identify top performing products, regions and customer segments the kind of analysis that directly supports strategic decision making in finance and operations roles.
 
 
 ## Key Findings
 
 **Technology Drives the Most Revenue**
-Technology was the highest revenue category at $836K, also delivering
-the best profit margins. Furniture had high sales but very low profit.
+Technology was the highest revenue category at $836K, also delivering the best profit margins. Furniture had high sales but very low profit.
 
 **West Region Leads Sales**
-The West region consistently outperformed all other regions with $725K
-in total sales across 4 years.
+The West region consistently outperformed all other regions with $725K in total sales across 4 years.
 
 **Consumer Segment Dominates**
-The Consumer segment accounted for 50.6% of all sales, making it the
-most important customer group to retain and grow.
+The Consumer segment accounted for 50.6% of all sales, making it the most important customer group to retain and grow.
 
 **Sales Growing Year on Year**
-Revenue grew consistently from 2014 to 2017 with the strongest growth
-in Q4 each year driven by seasonal demand.
+Revenue grew consistently from 2014 to 2017 with the strongest growth in Q4 each year driven by seasonal demand.
 
 **Some Products Losing Money**
-Several products in the Furniture category showed negative profit
-margins, representing an opportunity to reprice or discontinue.
+Several products in the Furniture category showed negative profit margins, representing an opportunity to reprice or discontinue.
 
 
 ## Project Structure
